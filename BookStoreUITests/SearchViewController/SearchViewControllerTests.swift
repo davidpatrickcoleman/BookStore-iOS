@@ -51,7 +51,7 @@ class SearchViewControllerTests: XCTestCase {
         XCTAssert(app.keyboards.count == 0, "Keyboard should dismiss.")
     }
     
-    func emptySearch() {
+    func testEmptySearch() {
         do {
             let emptySearchJSONPath = try TestUtil.path(for: emptySearchJSONFilename, in: type(of: self))
             server[django123SearchPath] = shareFile(emptySearchJSONPath)

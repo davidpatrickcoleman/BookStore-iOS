@@ -60,7 +60,6 @@
 		F57D5CFA231259D100022995 /* NewBooksEmpty.json in Resources */ = {isa = PBXBuildFile; fileRef = F57D5CF9231259D100022995 /* NewBooksEmpty.json */; };
 		F57D5CFD23126F5B00022995 /* BookInfoViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F57D5CFC23126F5B00022995 /* BookInfoViewControllerTests.swift */; };
 		F57D5CFF23126FB200022995 /* BookInfoNormal.json in Resources */ = {isa = PBXBuildFile; fileRef = F57D5CFE23126FB200022995 /* BookInfoNormal.json */; };
-		F57D5D052312872F00022995 /* SearchViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F57D5D042312872F00022995 /* SearchViewControllerTests.swift */; };
 		F580CDD123115EDD00606911 /* NewBooksNormal.json in Resources */ = {isa = PBXBuildFile; fileRef = F580CDD023115EDD00606911 /* NewBooksNormal.json */; };
 		F581BA982313F86E001AE4B3 /* django123.json in Resources */ = {isa = PBXBuildFile; fileRef = F581BA972313F86E001AE4B3 /* django123.json */; };
 		F581BA9A2313F883001AE4B3 /* django.json in Resources */ = {isa = PBXBuildFile; fileRef = F581BA992313F883001AE4B3 /* django.json */; };
@@ -863,7 +862,6 @@
 			files = (
 				F5BBB9662311404D007C71EC /* NewBooksViewControllerTests.swift in Sources */,
 				F57D5CF823124DE700022995 /* Utils.swift in Sources */,
-				F57D5D052312872F00022995 /* SearchViewControllerTests.swift in Sources */,
 				F57D5CFD23126F5B00022995 /* BookInfoViewControllerTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
